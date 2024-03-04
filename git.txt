@@ -1,0 +1,32 @@
+- git init
+
+memulai git dengan output .git 
+
+- git add namafile.js
+
+untuk memasukkan namafile.js kedalam antrian list git
+
+- git add .
+
+untuk memasukkan semua perubahan file kedalam antrian list git
+
+- git commit -m "ini kommit"
+
+untuk melakukan perubahan file dari list git yang telah di add tadi
+
+- git remote add origin git@github.com:hrmneffdii/nextjs-dashboard.git
+
+menyambungkan repository github ke dalam local git
+
+- git branch -M main
+
+untuk menjadikan nama branch yang sekarang dipakai menjadi main, agar memudahkan untuk proses push
+
+- git push -u origin main
+
+untuk update secara menyeluruh pada github dengan main yaitu branch yang telah direname tadi
+
+ssh parafrase : hrmneffdii
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKI68AMnto+hILaaA10yMtl13KtsV0c2yDkCueESPMsK hermaneffendi0502@gmail.com
+
