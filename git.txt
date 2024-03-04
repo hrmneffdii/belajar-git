@@ -33,6 +33,12 @@ semua harus dilakukan secara urut, contoh tidak bisa commit karena belum di add 
 ternyata, ketika branch local git dan github berbeda, maka si github kan membuat branch baru sesuai
 dengan nama branch local, ingat ya
 
+ketika git hasil clone an, jangan lupa untuk di rebase melalui pull agar branch repository local
+disamakan commit nya.
+
+ git pull origin main --rebase
+
+
 ssh parafrase : hrmneffdii
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKI68AMnto+hILaaA10yMtl13KtsV0c2yDkCueESPMsK hermaneffendi0502@gmail.com
