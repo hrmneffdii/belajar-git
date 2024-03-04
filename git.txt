@@ -17,7 +17,7 @@ untuk melakukan perubahan file dari list git yang telah di add tadi
 - git remote add origin git@github.com:hrmneffdii/nextjs-dashboard.git
 
 origin yaitu alamat githubnya yaitu git@github....
-menyambungkan repository github ke dalam local git
+menyambungkan repository github ke dalam local git sekarang
 
 - git branch -M main
 
