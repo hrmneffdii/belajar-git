@@ -22,6 +22,7 @@ menyambungkan repository github ke dalam local git sekarang
 - git branch -M main
 
 untuk menjadikan nama branch yang sekarang dipakai menjadi main, agar memudahkan untuk proses push
+untuk opsi ini opsional, karena nama awalnya yaitu master, cuma direname saja menjadi main
 
 - git push -u origin main
 
