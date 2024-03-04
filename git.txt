@@ -28,6 +28,8 @@ untuk menjadikan nama branch yang sekarang dipakai menjadi main, agar memudahkan
 push update ke dalam alamat(origin) dengan branch yang dikirim yaitu main
 untuk update secara menyeluruh pada github dengan main yaitu branch yang telah direname tadi
 
+semua harus dilakukan secara urut, contoh tidak bisa commit karena belum di add terlebih dahulu
+
 ssh parafrase : hrmneffdii
 
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKI68AMnto+hILaaA10yMtl13KtsV0c2yDkCueESPMsK hermaneffendi0502@gmail.com
