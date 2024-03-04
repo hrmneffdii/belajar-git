@@ -30,6 +30,8 @@ push update ke dalam alamat(origin) dengan branch yang dikirim yaitu main
 untuk update secara menyeluruh pada github dengan main yaitu branch yang telah direname tadi
 
 semua harus dilakukan secara urut, contoh tidak bisa commit karena belum di add terlebih dahulu
+ternyata, ketika branch local git dan github berbeda, maka si github kan membuat branch baru sesuai
+dengan nama branch local
 
 ssh parafrase : hrmneffdii
 
